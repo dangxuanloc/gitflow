@@ -89,4 +89,7 @@ Make sure you are familiar with the following concepts:
     # merge develop onto master
     Create PR from develop onto master
     # create tag, choose master branch, add release note in remote repository
+
+    ![gitflow](https://github.com/dangxuanloc/gitflow/assets/45841901/ffb88f08-6a48-47d4-9c0b-daf39a817fa6)
+
     
